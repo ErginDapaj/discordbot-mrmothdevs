@@ -1,0 +1,15 @@
+{
+  "name": "youtube-tutorials",
+  "version": "1.0.0",
+  "description": "A simple discord bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Grainger#5445",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
